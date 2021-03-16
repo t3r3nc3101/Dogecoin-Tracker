@@ -1,0 +1,19 @@
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Doge225.ico
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\dogeGreen.ico
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\infoIcon.png
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\instructions.png
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Dogecoin Tracker.exe.config
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Dogecoin Tracker.exe
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Dogecoin Tracker.pdb
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Dogecoin Tracker.xml
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Json.Net.dll
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\Dogecoin Tracker.exe
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\Dogecoin Tracker.xml
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Debug\Dogecoin Tracker.pdb

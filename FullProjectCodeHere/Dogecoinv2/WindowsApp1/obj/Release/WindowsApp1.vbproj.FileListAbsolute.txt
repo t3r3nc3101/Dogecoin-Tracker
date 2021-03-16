@@ -1,0 +1,21 @@
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Doge225.ico
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\dogeGreen.ico
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\dogeRed.ico
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\infoIcon.png
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\instructions.png
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Dogecoin Tracker.exe.config
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Dogecoin Tracker.exe
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Dogecoin Tracker.pdb
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Dogecoin Tracker.xml
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Json.Net.dll
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\WindowsApp1.Form1.resources
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\WindowsApp1.vbproj.CopyComplete
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\Dogecoin Tracker.exe
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\Dogecoin Tracker.xml
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\Dogecoin Tracker.pdb
+C:\Users\T3\source\repos\Dogecoinv2\WindowsApp1\obj\Release\WindowsApp1.vbprojAssemblyReference.cache
